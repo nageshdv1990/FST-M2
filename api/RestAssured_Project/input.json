@@ -1,0 +1,13 @@
+{
+  "id": 77232,
+  "category": {
+    "id": 1,
+    "name": "Dog"
+  },
+  "name": "Riley",
+  "tags": [{
+    "id": 1,
+    "name": "Doberman"
+  }],
+  "status": "alive"
+}
